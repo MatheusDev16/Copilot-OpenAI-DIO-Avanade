@@ -1,8 +1,11 @@
 # Copilot-OpenAI-DIO-Avanade
 Laboratório Prático sobre recursos da Open AI e Microsoft Copilot do Bootcamp DIO Avanade
 
-Neste desafio fomos solicitados à utilizar o Copilot da Microsoft para aprendermos suas funcionalidades. Pedi à ele criação de imagens baseado nos meus requisitos e também fiz perguntas para obter respostas. O resultado da pergunta deixarei abaixo:
+Neste desafio fomos solicitados à utilizar o Copilot da Microsoft para aprendermos suas funcionalidades. Pedi à ele criação de imagens baseado nos meus requisitos e também fiz perguntas para obter respostas.
+Para começar é necessário ter uma conta Microsoft, acessar o site do Copilot, efetuar seu login e pronto. Você será direcionado para a página inicial do Copilot que é essa: 
+![WhatsApp Image 2025-04-04 at 15 12 14](https://github.com/user-attachments/assets/277c9d45-7276-4b6e-8e1f-00c517bfae38)
 
+Após isso, basta apenas pedir o que deseja no campo de texto na parte inferior da pagina, primeiramente eu fiz uma pergunta à ele, esse é o resultado:
 ![WhatsApp Image 2025-04-04 at 14 55 13](https://github.com/user-attachments/assets/c221d2d6-33a2-499e-8b6e-23dee197eb7b)
 
 Esse seria um exemplo textual de como ele consegue responder perguntas feitas.
